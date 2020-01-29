@@ -1,0 +1,37 @@
+[
+ {
+   "repository":	"Aqua-devices/device_google_coral",
+   "target_path":	"device/google/coral",
+   "branch":		"x"
+ },
+ {
+   "repository":	"Aqua-devices/device_google_coral-sepolicy",
+   "target_path":	"device/google/coral-sepolicy",
+   "branch":		"x"
+ },
+ {
+   "repository":	"Aqua-devices/kernel_google_floral",
+   "target_path":	"kernel/google/floral",
+   "branch":		"x"
+ },
+ {
+   "repository":	"Aqua-devices/vendor_google",
+   "target_path":	"vendor/google",
+   "branch":		"x"
+ },
+ {
+   "repository":	"AquariOS/vendor_codeaurora_telephony",
+   "target_path":	"vendor/codeaurora/telephony",
+   "branch":		"x"
+ },
+ {
+   "repository":  	"gitlab.com/AquariOS/vendor_images",
+   "target_path": 	"vendor/images",
+   "branch":      	"x"
+ },
+ {
+   "repository":  	"gitlab.com/AquariOS/vendor_pixelgapps",
+   "target_path": 	"vendor/pixelgapps",
+   "branch":      	"x"
+ }
+]
