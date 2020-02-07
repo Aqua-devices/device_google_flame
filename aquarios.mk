@@ -49,3 +49,7 @@ BOARD_PREBUILT_VENDORIMAGE := vendor/images/flame/vendor.img
 
 $(call inherit-product-if-exists, vendor/google/flame/flame-vendor.mk)
 $(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
+
+# Bootanimation display properties
+TARGET_SCREEN_HEIGHT := 2280
+TARGET_SCREEN_WIDTH := 1080
